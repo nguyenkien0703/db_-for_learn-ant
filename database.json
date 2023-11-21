@@ -1,0 +1,158 @@
+{
+  "book-room": [
+    {
+      "time": "08 gio",
+      "fullname": "nguyen van kien",
+      "phone": "0868071819",
+      "email": "nguyenkien07032003ns@gmail.com",
+      "services": [
+        "thue xe may",
+        "thue xe o to 4 cho"
+      ],
+      "gift": "ao coc",
+      "date": [
+        "08-11-2023",
+        "12-12-2023"
+      ],
+      "id": 1
+    },
+    {
+      "time": "08 gio",
+      "fullname": "nguyen van kien",
+      "phone": "0868071819",
+      "email": "nguyenkien07032003ns@gmail.com",
+      "services": [
+        "thue xe may",
+        "thue xe o to 4 cho"
+      ],
+      "gift": "ao coc",
+      "date": [
+        "08-11-2023",
+        "12-12-2023"
+      ],
+      "id": 2
+    },
+    {
+      "time": "14 gio",
+      "fullname": "nguyen van kien12121",
+      "phone": "0868071819",
+      "email": "nguyenkien07032003ns@gmail.com",
+      "services": [
+        "thue xe may",
+        "thue xe o to 4 cho"
+      ],
+      "date": [
+        "08-11-2023",
+        "12-12-2023"
+      ],
+      "gift": "mu",
+      "id": 3
+    },
+    {
+      "time": "14 gio",
+      "fullname": "kien",
+      "email": "kiennv@trithucmoi.co",
+      "phone": "23423432",
+      "services": [
+        "thue xe o to 4 cho"
+      ],
+      "gift": "kem chong nang",
+      "date": [
+        "18-10-2023",
+        "28-11-2023"
+      ],
+      "id": 4
+    }
+  ],
+  "rooms": [
+    {
+      "name": "nguyen vankei",
+      "quantityBed": 10,
+      "quantityPeople": 1,
+      "desc": "nguywn vankien dinh thue",
+      "utils": [
+        "wifi",
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 3
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 7
+    },
+    {
+      "name": "sfasdsdfdsfdsfdsf",
+      "quantityBed": 1,
+      "quantityPeople": 1,
+      "desc": "sddfasdds",
+      "utils": [
+        "nong lanh"
+      ],
+      "status": true,
+      "id": 8
+    }
+  ]
+}
